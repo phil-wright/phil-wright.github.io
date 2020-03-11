@@ -1,5 +1,7 @@
 ---
-tags: F#
+layout: post
+title: Use Tags and Categories in your Jekyll based Github Pages
+tags: [F#]
 category: F#
 ---
 
