@@ -1,3 +1,7 @@
+I've decide to learn F# by tackling the exercises on Exercism (https://exercism.io/my/tracks/fsharp)
+
+As I complete each exercise, i'll post my solution and discuss any changes I made and what I learned.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/phil-wright/phil-wright.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
