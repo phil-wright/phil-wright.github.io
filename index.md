@@ -1,3 +1,7 @@
+---
+tags: F#
+---
+
 I've decide to learn F# by tackling the exercises on [Exercism](https://exercism.io/my/tracks/fsharp)
 
 As I complete each exercise, i'll post my solution and discuss any changes I made and what I learned.
