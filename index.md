@@ -1,5 +1,6 @@
 ---
 tags: F#
+category: F#
 ---
 
 I've decide to learn F# by tackling the exercises on [Exercism](https://exercism.io/my/tracks/fsharp)
